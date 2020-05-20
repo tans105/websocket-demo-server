@@ -1,4 +1,4 @@
-###Websocket-server-demo
+### Websocket-server-demo
 
 A simple websocket based server. Currently supports 2 message mapping and 1 heartbeat API
 - `/chat.sendMessage` - Public messaging
@@ -11,7 +11,7 @@ An event listener is provided to handle events of
 - User disconnection
  
 
-####Demo
+#### Demo
 - Hearbeat API `GET` - http://pure-gorge-41603.herokuapp.com/heartbeat
 - Websocket API `ws` - http://pure-gorge-41603.herokuapp.com/ws
 
